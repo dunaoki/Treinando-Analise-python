@@ -1,0 +1,101 @@
+Nome Completo|Idade|Renda Mensal|Sexo|Cidade|Estado|Data de Nascimento
+João da Silva|54|2.27|Feminino|São Paulo|SP|1970-06-15 22:19:00.037648
+Maria Oliveira|80|5.147|Masculino|Rio de Janeiro|RJ|1944-06-15 10:19:00.037648
+Pedro Santos|46|8.657|Masculino|Belo Horizonte|MG|1978-06-15 22:19:00.037648
+Ana Costa|30|5.026|Feminino|Salvador|BA|1994-06-15 22:19:00.037648
+Lucas Pereira|39|4.128|Masculino|Curitiba|PR|1985-06-15 16:19:00.037648
+Fernanda Souza|57|8.578|Masculino|Fortaleza|CE|1967-06-16 04:19:00.037648
+Rafael Ferreira|54|4.728|Masculino|Recife|PE|1970-06-15 22:19:00.037648
+Juliana Almeida|60|8.645|Masculino|Porto Alegre|RS|1964-06-15 10:19:00.037648
+Márcio Lima|33|5.16|Masculino|Manaus|AM|1991-06-16 04:19:00.037648
+Patrícia Gomes|30|7.14|Feminino|Brasília|DF|1994-06-15 22:19:00.037648
+Gustavo Barbosa|61|5.226|Feminino|Goiânia|GO|1963-06-16 04:19:00.037648
+Carolina Martins|26|6.071|Masculino|Belém|PA|1998-06-15 22:19:00.037648
+Marcelo Castro|43|5.252|Masculino|Campinas|SP|1981-06-15 16:19:00.037648
+Vanessa Nunes|18|9.135|Masculino|São Luís|MA|2006-06-15 22:19:00.037648
+Rodrigo Vieira|55|4.609|Masculino|São Gonçalo|RJ|1969-06-15 16:19:00.037648
+André Santos|51|3.944|Feminino|Maceió|AL|1973-06-15 16:19:00.037648
+Camila Oliveira|48|8.221|Masculino|Feira de Santana|BA|1976-06-15 10:19:00.037648
+Vinícius Costa|75|7.708|Masculino|Santarém|PA|1949-06-15 16:19:00.037648
+Aline Pereira|41|2.993|Masculino|João Pessoa|PB|1983-06-16 04:19:00.037648
+Felipe Silva|38|2.478|Feminino|Teresina|PI|1986-06-15 22:19:00.037648
+Bruna Mendes|31|7.307|Masculino|Campo Grande|MS|1993-06-15 16:19:00.037648
+Luiz Oliveira|38|2.607|Feminino|Cuiabá|MT|1986-06-15 22:19:00.037648
+Larissa Alves|25|3.203|Masculino|Aracaju|SE|1999-06-16 04:19:00.037648
+Diego Sousa|39|9.941|Masculino|Natal|RN|1985-06-15 16:19:00.037648
+Bianca Pereira|46|4.917|Feminino|Teresópolis|RJ|1978-06-15 22:19:00.037648
+Ricardo Santos|58|9.119|Feminino|Anápolis|GO|1966-06-15 22:19:00.037648
+Tatiane Costa|24|5.176|Feminino|Petrópolis|RJ|2000-06-15 10:19:00.037648
+Eduardo Souza|62|2.353|Masculino|Joinville|SC|1962-06-15 22:19:00.037648
+Amanda Almeida|32|3.037|Masculino|Sorocaba|SP|1992-06-15 10:19:00.037648
+César Lima|38|3.789|Masculino|Uberlândia|MG|1986-06-15 22:19:00.037648
+Mariana Gomes|39|2.192|Masculino|Ribeirão Preto|SP|1985-06-15 16:19:00.037648
+Antônio Barbosa|57|4.4|Feminino|Londrina|PR|1967-06-16 04:19:00.037648
+Lívia Martins|18|7.887|Feminino|Niterói|RJ|2006-06-15 22:19:00.037648
+Gustavo Castro|36|2.16|Feminino|Maringá|PR|1988-06-15 10:19:00.037648
+Renata Nunes|78|5.314|Masculino|Caxias do Sul|RS|1946-06-15 22:19:00.037648
+Matheus Vieira|57|7.348|Feminino|Dourados|MS|1967-06-16 04:19:00.037648
+Fernanda Santos|75|6.332|Masculino|Palmas|TO|1949-06-15 16:19:00.037648
+Lucas Oliveira|27|3.09|Masculino|Ponta Grossa|PR|1997-06-15 16:19:00.037648
+Laura Costa|66|4.795|Masculino|Ipatinga|MG|1958-06-15 22:19:00.037648
+Rafaela Pereira|63|6.561|Masculino|Montes Claros|MG|1961-06-15 16:19:00.037648
+Gabriel Mendes|34|9.302|Feminino|Cascavel|PR|1990-06-15 22:19:00.037648
+Isabela Oliveira|75|4.651|Masculino|Santa Maria|RS|1949-06-15 16:19:00.037648
+Thiago Silva|73|2.709|Masculino|Foz do Iguaçu|PR|1951-06-16 04:19:00.037648
+Alessandra Alves|77|6.124|Masculino|São Carlos|MG|1947-06-16 04:19:00.037648
+Pedro Sousa|61|6.222|Feminino|Juazeiro do Norte|CE|1963-06-16 04:19:00.037648
+Cristiane Pereira|21|6.374|Feminino|Barra Mansa|RJ|2003-06-16 04:19:00.037648
+Daniel Santos|31|9.031|Feminino|Lages|SC|1993-06-15 16:19:00.037648
+Nathália Costa|68|6.112|Masculino|Passo Fundo|RS|1956-06-15 10:19:00.037648
+Victor Souza|59|7.243|Feminino|Canoas|SP|1965-06-15 16:19:00.037648
+Carla Almeida|68|2.227|Masculino|Volta Redonda|CE|1956-06-15 10:19:00.037648
+Marcos Lima|19|3.64|Feminino|Vitória da Conquista|RJ|2005-06-15 16:19:00.037648
+Patrícia Gomes|36|4.801|Feminino|Taubaté|SC|1988-06-15 10:19:00.037648
+José Barbosa|55|4.323|Feminino|Colombo|RS|1969-06-15 16:19:00.037648
+Carolina Martins|31|5.284|Masculino|Boa Vista|SP|1993-06-15 16:19:00.037648
+Rafael Castro|35|8.884|Masculino|São José do Rio Preto|MG|1989-06-15 16:19:00.037648
+Beatriz Nunes|43|4.659|Masculino|Marabá|PR|1981-06-15 16:19:00.037648
+Bruno Vieira|61|9.304|Masculino|Itajaí|MA|1963-06-16 04:19:00.037648
+Camila Santos|59|8.005|Feminino|Itumbiara|SC|1965-06-15 16:19:00.037648
+Vinícius Oliveira|59|7.678|Feminino|Varginha|GO|1965-06-15 16:19:00.037648
+Mariana Costa|53|3.394|Feminino|Paranaguá|MG|1971-06-16 04:19:00.037648
+Lucas Alves|73|2.507|Feminino|Divinópolis|PR|1951-06-16 04:19:00.037648
+Larissa Sousa|18|6.237|Masculino|Picos|RS|2006-06-15 22:19:00.037648
+Diego Pereira|40|9.46|Feminino|Novo Hamburgo|SC|1984-06-15 10:19:00.037648
+Bianca Santos|29|3.063|Feminino|Arapiraca|SP|1995-06-16 04:19:00.037648
+Ricardo Oliveira|60|9.874|Masculino|Avaré|CE|1964-06-15 10:19:00.037648
+Tatiane Almeida|79|5.032|Masculino|Mossoró|RJ|1945-06-15 16:19:00.037648
+Eduardo Lima|23|7.655|Masculino|Ituiutaba|SC|2001-06-15 16:19:00.037648
+Amanda Gomes|75|8.017|Masculino|Franca|RS|1949-06-15 16:19:00.037648
+César Barbosa|61|7.181|Masculino|Barretos|SP|1963-06-16 04:19:00.037648
+Mariana Martins|34|7.75|Masculino|Cáceres|MG|1990-06-15 22:19:00.037648
+Antônio Castro|50|4.06|Masculino|Araranguá|PR|1974-06-15 22:19:00.037648
+Lívia Nunes|36|6.654|Feminino|Várzea Grande|PE|1988-06-15 10:19:00.037648
+Gustavo Vieira|47|8.166|Masculino|Guarapari|SC|1977-06-15 16:19:00.037648
+Renata Santos|43|8.225|Masculino|Ilhéus|SC|1981-06-15 16:19:00.037648
+Matheus Oliveira|78|5.675|Masculino|Sinop|MT|1946-06-15 22:19:00.037648
+Fernanda Costa|71|7.387|Masculino|Caruaru|PE|1953-06-15 16:19:00.037648
+Lucas Pereira|39|3.093|Masculino|Tubarão|SC|1985-06-15 16:19:00.037648
+Laura Almeida|76|9.682|Feminino|São José|SP|1948-06-15 10:19:00.037648
+Rafaela Lima|64|5.363|Feminino|Blumenau|SC|1960-06-15 10:19:00.037648
+Gabriel Gomes|80|9.85|Feminino|Criciúma|SC|1944-06-15 10:19:00.037648
+Isabela Barbosa|21|4.981|Masculino|Itapipoca|CE|2003-06-16 04:19:00.037648
+Thiago Martins|27|2.824|Feminino|Alvorada|SP|1997-06-15 16:19:00.037648
+Alessandra Castro|65|5.11|Feminino|Castanhal|MG|1959-06-16 04:19:00.037648
+Pedro Nunes|62|5.153|Feminino|Alagoinhas|BA|1962-06-15 22:19:00.037648
+Cristiane Vieira|71|7.848|Feminino|Bagé|BA|1953-06-15 16:19:00.037648
+Daniel Santos|58|3.585|Feminino|Guaratinguetá|RN|1966-06-15 22:19:00.037648
+Nathália Costa|75|6.422|Masculino|Poços de Caldas|MG|1949-06-15 16:19:00.037648
+Victor Souza|43|7.12|Masculino|Três Lagoas|PE|1981-06-15 16:19:00.037648
+Carla Almeida|18|9.496|Feminino|Barbacena|SC|2006-06-15 22:19:00.037648
+Marcos Lima|77|8.806|Masculino|Cataguases|MG|1947-06-16 04:19:00.037648
+Patrícia Gomes|58|4.277|Feminino|Sobral|BA|1966-06-15 22:19:00.037648
+José Barbosa|28|7.796|Feminino|Sete Lagoas|PA|1996-06-15 10:19:00.037648
+Carolina Martins|18|7.448|Feminino|Arcoverde|SE|2006-06-15 22:19:00.037648
+Rafael Castro|24|5.439|Feminino|Itapeva|MG|2000-06-15 10:19:00.037648
+Beatriz Nunes|75|6.572|Masculino|Conselheiro Lafaiete|MG|1949-06-15 16:19:00.037648
+Bruno Vieira|52|9.388|Masculino|Eunápolis|BA|1972-06-15 10:19:00.037648
+Camila Santos|46|3.136|Feminino|Tucuruí|PA|1978-06-15 22:19:00.037648
+Vinícius Oliveira|71|2.691|Masculino|Itabaiana|SE|1953-06-15 16:19:00.037648
+Mariana Costa|35|6.866|Masculino|Almenara|MG|1989-06-15 16:19:00.037648
+Lucas Alves|36|3.364|Masculino|Guarabira|PB|1988-06-15 10:19:00.037648
