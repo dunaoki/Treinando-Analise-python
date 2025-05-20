@@ -20,7 +20,7 @@ Este repositório contém os exercícios, anotações e projetos desenvolvidos d
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Colab (opcional)
+
 
 
 ## 📚 Conteúdo Abordado
